@@ -1,7 +1,8 @@
 - Hi, I’m @andrewkuhn
-- I’m interested in baseball analytics and their use in baseball operations.
-- I’m currently learning R through DataCamp and SQL in self-education.
-- You can reach me via email at andrew.kuhn@ufl.edu
+- I’m pursuing a career in baseball analytics.
+- Recent employers for analytics positions include the O'Fallon Hoots, Prospect Select Baseball, and Sport Info Solutions
+- I’m currently learning R and Python through DataCamp and SQL in self-education.
+- You can reach me via email at andrew.b.kuhn@gmail.com
 
 
 <!---
